@@ -1,5 +1,12 @@
 # Games Played
 
+## Main focus
+
+1.  Add storyline to DBG/Rogue like game?
+    -   
+2.  Add meanings to board/grid
+3.  Add puzzle mechanics to RPG?
+
 ## Maze Machina
 
 1.  Mechanics:
@@ -31,13 +38,17 @@
 ## Papercraft
 
 1.  Mechanics:
+    -   DBG + Rogue-like, 半自由探索地图
 2.  Pros:
 3.  Cons:
 4.  Enhancement:
+    -   
 
 ## Puzzle Craft
 
 1.  Mechanics:
+    -   一笔画 + Farming,
+
 2.  Pros:
 3.  Cons:
 4.  Enhancement:
@@ -59,6 +70,7 @@
 ## Knight of the Card Table
 
 1.  Mechanics:
+    -   linear card resolve,
 2.  Pros:
 3.  Cons:
 4.  Enhancement:
@@ -66,6 +78,8 @@
 ## Void Tyrant
 
 1.  Mechanics:
+    -   Black Jack + DBG,
+
 2.  Pros:
 3.  Cons:
 4.  Enhancement:
@@ -76,3 +90,12 @@
 2.  Pros:
 3.  Cons:
 4.  Enhancement:
+
+## Will
+
+1.  Mechanics:
+    -   交换
+2.  Pros:
+3.  Cons:
+4.  Enhancement:
+    -   交换？
