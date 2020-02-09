@@ -17,7 +17,10 @@
     -   Rogue like, 迷宫抽卡, Doodle God 组合
 6.  市井故事
     -   昭和杂货店物语 -> 如期
-7.  
+7.  武侠酒馆
+    -   猫头鹰与灯塔 + 旅行青蛙 + Weapon Shop Story
+    -   
+8.  
 
 ## 如期
 
