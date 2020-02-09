@@ -17,7 +17,7 @@
     -   Rogue like, 迷宫抽卡, Doodle God 组合
 6.  市井故事
     -   昭和杂货店物语 -> 如期
-7.
+7.  
 
 ## 如期
 
@@ -27,6 +27,7 @@
 4.  Reigns + CV
 5.  Card Color indicates 故事/情感/经历/财富
 6.  画面 + 音乐 + 歌词
+7.  场景复现：关键词 + 点数 + 音乐 + 画面？
 
 ## Once Upon A Time
 
@@ -35,6 +36,8 @@
 ## Sword and Flower
 
 ## JiangHu X
+
+1.  类似美妙世界的「交换卡片影响世界」游戏？
 
 ## 西游记
 
