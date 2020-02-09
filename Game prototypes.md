@@ -46,7 +46,11 @@
 2.  2048 + Doodle God?
 3.  Maze Machina
 4.  'Word' or 'Elements' Card as game controller/items in Maze Machina/Doodle God
-5.  
+5.  Each episode as a book page, connecting words as story, dive into words as discover, also interact with pics,
+6.  类卡卡颂拼图，随机出现故事块并按照一定规则拼接，同时角色在故事块上移动，推动故事
+7.  DBG讲故事，前面resolve过的牌通过某种形式进入牌库，成为后面encounter的可能选项；每次encounter会抓一些新牌，同一张牌在不同的
+背景和对抗下效果不同
+8.  
 
 ## Sword and Flower
 
