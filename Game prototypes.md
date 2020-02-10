@@ -20,6 +20,7 @@
 7.  武侠酒馆
     -   猫头鹰与灯塔 + 旅行青蛙 + Weapon Shop Story
     -   匙河集 + 故事碎片收集
+    -   酒馆里收集故事可以借鉴Void Tyrant，利用Black Jack来战斗
 8.  多啦A梦犯罪事件薄
     -   每集用一枚机器猫里的道具进行犯罪
 9.  Story Tetris:
@@ -30,7 +31,17 @@
     -   脑残江湖の身份 + 剧本
     -   非对称性对抗
     -   Dice bluffing / UNO
-12.
+12. 一个总结：
+    -   Hyper Alice: 太空歌剧里的童话人物是怎样的？
+    -   Sword and Flower: 蒸汽朋克风的中国古典是怎样的？
+    -   ABHW：人类在各种随机变量的作用下将走向何方？
+13. ABHW：
+    -   Simmiland like
+14. Chrono Ranger:
+    -   ABHW + rumor碎片系统 + DBG + Rogue like
+    -   本质上是资源控制 + 红黑树，引领归宿
+    -   玩家通过Deck Building在不同年代间探险，解锁不同模版生成的历史事件
+15.
 
 ## 如期
 
@@ -71,7 +82,7 @@
 
 1.  长安背景的蒸汽朋克
 2.  Play cards -> Roll dice -> Drop elements -> Tetris like movement -> Match 3
-
+3.  Key feature: Roll dice, Area control, tech tree
 ## JiangHu X
 
 1.  类似美妙世界的「交换卡片影响世界」游戏？
@@ -79,6 +90,10 @@
 3.  定义{cost, chars, gain}来定义Action，之后随着游戏进程的推进来进化出新的Action，以及
 4.  根据3，同样可以生成随时代变化的战斗卡牌
 5.  根据4，游戏中的武学技能是根据规则 + 时代属性 + 世界属性（魔法/蒸汽朋克/etc）生成的，同时武器也根据这些规则生成
+6.  将人格特质/故事选择/行动偏好都卡牌化/小白化
+7.  基于地点/状态/玩家性格/经历生成卡牌序列，然后用类似Black Jack的方式进行战斗
+8.  设定侠客模版，基础人物/职业通过经历不同的故事成长成对应的侠客（郭靖/李寻欢/楚留香/etc）
+9.  另类三消：三种不同底色（人物/反派/角色/事件模版）连接自动消除
 
 ## 西游记
 
