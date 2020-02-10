@@ -22,7 +22,8 @@
     -   匙河集 + 故事碎片收集
 8.  多啦A梦犯罪事件薄
     -   每集用一枚机器猫里的道具进行犯罪
-9.  
+9.  Story Tetris:
+10. 
 
 ## 如期
 
@@ -39,6 +40,13 @@
 
 1.  童话/黑童话主题的Rogue like DBG, 部分类似月圆之夜
 2.  强调「要素」与「故事」
+3.  Card has some color dimensions like 5 in 「如期」, and play on board lie a match 3 game
+4.  World->Kingdom->Story->Encounter; Kingdom将可能出现的地点给玩选择随机拼块，主角沿着路径走到特定位置进入Story，Story由
+若干Encounter组成，每个Encounter是将Encounter事件牌和主角的Deck洗混，开始以故事形式让主角通过类似Reigns的操作方式进行选择；
+主角的属性、Deck和之前的选择决定了后面的选项
+5.  不使用拼块的方案：左划/右划走完剧情同时完成Deck building，然后进行战斗
+6.  Choices->event template<TYPE>, TYPE defined by Propp model and others
+7.  要素卡拥有登记和稀有度，玩家扮演bard，在各个童话国度通过讲故事战斗build deck
 
 ## Alice in WOnderland
 
@@ -50,7 +58,6 @@
 6.  类卡卡颂拼图，随机出现故事块并按照一定规则拼接，同时角色在故事块上移动，推动故事
 7.  DBG讲故事，前面resolve过的牌通过某种形式进入牌库，成为后面encounter的可能选项；每次encounter会抓一些新牌，同一张牌在不同的
 背景和对抗下效果不同
-8.  
 
 ## Sword and Flower
 
@@ -64,3 +71,4 @@
 
 ## 西游记
 
+1.  名侦探孙悟空？
