@@ -23,7 +23,14 @@
 8.  多啦A梦犯罪事件薄
     -   每集用一枚机器猫里的道具进行犯罪
 9.  Story Tetris:
-10. 
+10. 风来の三国：
+    -   不思议迷宫的格子上色 + 连线消除战棋 + DBG
+    -   Deck for Sanguo heroes, equipment, strategy, etc
+11. 聊斋志异：
+    -   脑残江湖の身份 + 剧本
+    -   非对称性对抗
+    -   Dice bluffing / UNO
+12.
 
 ## 如期
 
@@ -58,8 +65,12 @@
 6.  类卡卡颂拼图，随机出现故事块并按照一定规则拼接，同时角色在故事块上移动，推动故事
 7.  DBG讲故事，前面resolve过的牌通过某种形式进入牌库，成为后面encounter的可能选项；每次encounter会抓一些新牌，同一张牌在不同的
 背景和对抗下效果不同
+8.  Baba is You
 
 ## Sword and Flower
+
+1.  长安背景的蒸汽朋克
+2.  Play cards -> Roll dice -> Drop elements -> Tetris like movement -> Match 3
 
 ## JiangHu X
 
