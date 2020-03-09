@@ -53,6 +53,7 @@
     -   转职为游戏核心特色
 17. 三部曲solo版
     -   电子 + 实体
+18. Kairo Soft like narrative game？
 
 ## 如期
 
