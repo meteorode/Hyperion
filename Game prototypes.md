@@ -51,6 +51,8 @@
 16. FFTA Remake
     -   A deck building SRPG?
     -   转职为游戏核心特色
+17. 三部曲solo版
+    -   电子 + 实体
 
 ## 如期
 
