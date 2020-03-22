@@ -4,7 +4,13 @@
 
 1.  剑与花 + 古都漫游指南：
     -   突然想到天之痕和云和山？
-2.  
+    -   开唐/剑器/长安能否结合？
+2.  如期 + 江湖酒馆：
+3.  Once Upon A Time + Alice in Wonderland:
+4.  ABHW + Chrono Ranger + etc:
+5.  江湖X
+6.  多啦A梦 + 西游:
+7.  TBD
 
 ## Twilight Sparkle
 
