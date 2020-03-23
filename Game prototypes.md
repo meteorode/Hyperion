@@ -6,8 +6,9 @@
     -   突然想到天之痕和云和山？
     -   开唐/剑器/长安能否结合？
 2.  如期 + 江湖酒馆：
-    -   
+    -   放置人物 trigger？
 3.  Once Upon A Time + Alice in Wonderland:
+    -   Puzzle DBG？
 4.  ABHW + Chrono Ranger + etc:
 5.  江湖X
 6.  多啦A梦 + 西游:
