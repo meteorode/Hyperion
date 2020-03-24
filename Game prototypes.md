@@ -9,6 +9,7 @@
     -   放置人物 trigger？
 3.  Once Upon A Time + Alice in Wonderland:
     -   Puzzle DBG？
+    -   不同主角直接代表不同世界类型（童话/奇幻/科幻/现实/etc）？不同道具卡牌在不同世界类型中作用也不同
 4.  ABHW + Chrono Ranger + etc:
 5.  江湖X
 6.  多啦A梦 + 西游:
