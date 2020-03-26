@@ -19,6 +19,12 @@
 6.  多啦A梦 + 西游:
 7.  TBD
 
+## Chang'An
+
+## Story of Your Life
+
+## Alice in Wonderland
+
 ## Twilight Sparkle
 
 1.  Ideas not belonged to below collection
