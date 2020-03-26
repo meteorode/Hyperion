@@ -21,7 +21,15 @@
 
 ## Chang'An
 
+1.  核心玩法？
+    -   Dicey dungeon like?
+    -   Swap?
+    -   
+2.  
+
 ## Story of Your Life
+
+1.  以一个在，比如说，江南小镇上长期存在的事物的视角？
 
 ## Alice in Wonderland
 
