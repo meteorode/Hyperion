@@ -3,12 +3,15 @@
 ## Espresso
 
 1.  剑与花 + 古都漫游指南：
+    -   文化与冒险
     -   突然想到天之痕和云和山？
     -   开唐/剑器/长安能否结合？
     -   如何在游戏里藏入普通人的悲欢离合？
 2.  如期 + 江湖酒馆：
+    -   怀旧与故事
     -   放置人物 trigger？
 3.  Once Upon A Time + Alice in Wonderland:
+    -   童话与卡牌
     -   Puzzle DBG？
     -   不同主角直接代表不同世界类型（童话/奇幻/科幻/现实/etc）？不同道具卡牌在不同世界类型中作用也不同
 4.  ABHW + Chrono Ranger + etc:
