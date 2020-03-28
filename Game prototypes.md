@@ -31,6 +31,7 @@
 ## Story of Your Life
 
 1.  以一个在，比如说，江南小镇上长期存在的事物的视角？
+2.  一个除了idle之外贯穿始终的玩法
 
 ## Alice in Wonderland
 
