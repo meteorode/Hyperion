@@ -37,6 +37,7 @@
 
 1.  童话镇？
 2.  反叛的童谣？
+3.  故事元素在Card Battle中的应用
 
 ## Twilight Sparkle
 
