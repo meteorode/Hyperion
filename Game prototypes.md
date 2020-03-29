@@ -20,25 +20,36 @@
 6.  多啦A梦 + 西游:
 7.  TBD
 
-## Chang'An
+## Thoughts
+
+### Chang'An
 
 1.  核心玩法？
     -   Dicey dungeon like?
     -   Swap?
     -   
 2.  是否所有的这三个游戏都只需要有一个solid的核心玩法就够了？
+3.  如何在这里面使用多POV叙事？
 
-## Story of Your Life
+### Story of Your Life
 
 1.  以一个在，比如说，江南小镇上长期存在的事物的视角？
 2.  一个除了idle之外贯穿始终的玩法
 3.  主题是什么？
 
-## Alice in Wonderland
+### Alice in Wonderland
 
 1.  童话镇？
 2.  反叛的童谣？
 3.  故事元素在Card Battle中的应用
+
+## Conclusions
+
+### Chang'An
+
+### Story of Your Life
+
+### Alice in Wonderland
 
 ## Twilight Sparkle
 
