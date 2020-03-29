@@ -26,12 +26,13 @@
     -   Dicey dungeon like?
     -   Swap?
     -   
-2.  
+2.  是否所有的这三个游戏都只需要有一个solid的核心玩法就够了？
 
 ## Story of Your Life
 
 1.  以一个在，比如说，江南小镇上长期存在的事物的视角？
 2.  一个除了idle之外贯穿始终的玩法
+3.  主题是什么？
 
 ## Alice in Wonderland
 
