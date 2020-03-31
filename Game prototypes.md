@@ -50,11 +50,8 @@
 
 ## Conclusions
 
-### Chang'An
-
-### Story of Your Life
-
-### Alice in Wonderland
+>   Moved to ../Prototypes/Les Trois Mousquetaires.md
+>   Added two new folders: ../Prototypes and ../Mechanics
 
 ## Twilight Sparkle
 
