@@ -24,4 +24,15 @@
 
     Once Upon A Time...
 
-1.  
+1.  版图元素（用于连线收集）；
+    -   冒险
+    -   故事
+    -   财富
+    -   战斗
+2.  被动卡牌与地图Obj
+    -   Triggerred: 3 Adv, 4 Story, etc
+    -   Unlock: as above,
+3.  Deck building:
+    -   
+4.  Card Battle:
+    -   
