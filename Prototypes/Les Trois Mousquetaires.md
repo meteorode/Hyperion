@@ -12,14 +12,16 @@
     -   居民，游戏的核心；有普通的民众也有知名的历史人物
 3.  玩法：
     -   
-4.
+4.  
 
 ## Story of Your Life / 如期
 
     你没有如期归来，这正是离别的意义
 
+1.  
+
 ## Alice in Wonderland
 
     Once Upon A Time...
 
-1.
+1.  
