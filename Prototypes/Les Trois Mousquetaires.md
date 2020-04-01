@@ -22,6 +22,7 @@
     -   Doodle God like: 元素（词语，故事要素）拼接，逐步unlock
     -   小游戏，结果影响新的内容
     -   信，故事生成
+2.  应该更接近memoir
 
 ## Alice in Wonderland
 
