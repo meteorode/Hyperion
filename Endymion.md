@@ -1,6 +1,6 @@
 # Endymion
 
-Endymion is draft of Hyperion
+Endymion is draft of Hyperion.
 
 ## Main Melody
 
