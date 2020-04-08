@@ -57,8 +57,9 @@
 4.  Card Battle:
     -   
 
-## A Brief History of World
+##  Chang'An Odyssey
 
-    白发渔樵江渚上，惯看秋月春风
-
-1.  Regions like
+1.  双线，一线长安，一线大航海
+2.  时间进度不同
+3.  分主次，大航海为主
+4.  各有一个puzzle game作为主要玩法；大航海加入一个DBG + rogue like
