@@ -6,6 +6,10 @@ Endymion is draft of Hyperion.
 
 如何选择「契合主题」的玩法？
 
+## Narrative DBG
+
+1.  如果有「将故事元素放入DBG」的方法，可以更换很多主题？
+
 ### Chang'An
 
 1.  长安的主题是什么？或者说，有哪些？
@@ -21,4 +25,4 @@ Endymion is draft of Hyperion.
 
 ### 如期
 
-### Alice in Wonderland
+### Alice in Wonderland、
