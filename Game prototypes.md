@@ -13,6 +13,10 @@
 4.  Chang'An Odyssey
     -   长安 + 冒险 双线
 
+## Conclusions I
+
+>   Moved to ../Prototypes/FourSquare.md
+
 ## Espresso
 
 1.  剑与花 + 古都漫游指南：
@@ -62,7 +66,7 @@
 2.  反叛的童谣？
 3.  故事元素在Card Battle中的应用
 
-## Conclusions
+## Conclusions II
 
 >   Moved to ../Prototypes/Les Trois Mousquetaires.md
 >   Added two new folders: ../Prototypes and ../Mechanics
