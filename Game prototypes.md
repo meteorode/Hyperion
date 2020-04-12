@@ -1,5 +1,18 @@
 # Game Prototype Collection
 
+## Another Shot
+
+1.  JiangHu Inn
+    -   安乐椅神探
+    -   江湖赌局
+    -   卡牌战斗
+2.  如期
+    -   故事向的个人成长
+3.  Alice in Wonderland
+    -   童话世界（不同国度，不同故事）的大航海
+4.  Chang'An Odyssey
+    -   长安 + 冒险 双线
+
 ## Espresso
 
 1.  剑与花 + 古都漫游指南：
@@ -15,6 +28,7 @@
     -   童话与卡牌
     -   Puzzle DBG？
     -   不同主角直接代表不同世界类型（童话/奇幻/科幻/现实/etc）？不同道具卡牌在不同世界类型中作用也不同
+    -   童话王国里的大航海？
 4.  ABHW + Chrono Ranger + etc:
 5.  江湖X
 6.  多啦A梦 + 西游:
