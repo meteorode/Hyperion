@@ -14,7 +14,8 @@
 
     你没有如期归来，这正是离别的意义
 
-
+1.  如期能否用Doodle God的游戏方式？
+2.  不定时idle game，信笺体，故事向
 
 ## Alice in Wonderland
 
