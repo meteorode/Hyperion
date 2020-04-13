@@ -16,6 +16,10 @@
 
 1.  如期能否用Doodle God的游戏方式？
 2.  不定时idle game，信笺体，故事向
+3.  如何从puzzle到画面然后到故事？
+4.  故事仍然用regions like的方式操作
+5.  仍然有人物的属性与成长
+6.  可以不仅仅局限于一个人？而是有legacy？
 
 ## Alice in Wonderland
 
