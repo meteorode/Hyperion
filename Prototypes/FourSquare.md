@@ -26,7 +26,7 @@
     Dreams do come true, if only we wish hard enough.
     If you cannot teach me to fly, teach me to sing.
 
-
+1.  在Alice的冒险里，trade的商品是故事？
 
 ## Chang'An Odyssey
 
