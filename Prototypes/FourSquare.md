@@ -11,7 +11,9 @@
 
 1.  新知
     -   rogue like, 角色扮演， 身份可更换的脑浆电子游戏？
-2.
+2.  生活
+    -   谈话 -> 选择 -> 解决（puzzle/battle)
+3.  三联
 
 ## Story of Your Life / 如期
 
