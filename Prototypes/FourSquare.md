@@ -25,6 +25,7 @@
 4.  故事仍然用regions like的方式操作
 5.  仍然有人物的属性与成长
 6.  可以不仅仅局限于一个人？而是有legacy？
+7.  骰子人生？文艺风？
 
 ## Alice in Wonderland
 
