@@ -5,6 +5,7 @@
 1.  能否将脑浆的「获胜条件」带入「故事模版」
 2.  Dice Life: 文艺风，掷骰选择，build deck as card/dice hybrid
 3.  OUAT + Knights of Pen and Paper: 打断 + 检定
+4.  ridiculous Adventure: 每一个encounter的对手/产出都有default/random/self defined；不同的结果检定不同
 
 ## Another Shot
 
