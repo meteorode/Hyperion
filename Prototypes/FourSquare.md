@@ -4,6 +4,8 @@
 
 1.  Regions li/ke操作展开故事，增加暂命名为♠️♥️♣️♦️这样的属性，同时组卡？
     -   应该用于哪个游戏？
+2.  Dice + card hybrid deck builidng
+    -   合适的背景？
 
 ## JiangHu Inn
 
