@@ -65,11 +65,11 @@
 
 ### Theme
 
-1.  
+1.  Fable like Sanguo Characters
 
 ### Mechanics
 
-1.  
+1.  FFTA like
 
 ## Others
 
