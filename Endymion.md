@@ -6,6 +6,16 @@ Endymion is draft of Hyperion.
 
 如何选择「契合主题」的玩法？
 
+## Rhyme
+
+好的节奏应该是什么样的？
+
+1.  动物之森
+2.  Zelda
+3.  青蛙
+4.  水蜜如酒之地
+5.  猫头鹰与灯塔
+
 ## Narrative DBG
 
 1.  如果有「将故事元素放入DBG」的方法，可以更换很多主题？
