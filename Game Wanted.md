@@ -71,6 +71,12 @@
 
 1.  FFTA like
 
-## Others
+## Fabeland
 
-1.  
+### Theme
+
+1.  A place while chars in Fable lived together?
+
+### Mechanics
+
+1.  A DBG for simulation of daily lives in a fariy land?

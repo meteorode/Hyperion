@@ -37,4 +37,4 @@ Endymion is draft of Hyperion.
 
 ### 如期
 
-### Alice in Wonderland、
+### Alice in Wonderland
