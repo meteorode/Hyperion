@@ -80,3 +80,5 @@
 ### Mechanics
 
 1.  A DBG for simulation of daily lives in a fariy land?
+
+## Others
