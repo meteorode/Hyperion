@@ -15,6 +15,12 @@
 
 ## Deck Building
 
+1.  Deck是什么，是否决定了游戏的部分性质？
+2.  build的方法是否决定了游戏机制？
+    -   puzzle
+    -   idle
+3.
+
 ## Card Battler
 
 ## Rogue like
