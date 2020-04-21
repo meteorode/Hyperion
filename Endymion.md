@@ -22,6 +22,14 @@ Endymion is draft of Hyperion.
 
 1.  如果有「将故事元素放入DBG」的方法，可以更换很多主题？
 
+## 「JiangHu L」
+
+1.  一个如下机制的游戏适合什么样的背景？
+    -   Dice rolling
+    -   Linear card resolving
+    -   Play your own deck into events and enviroment shuffle
+    -   Special match 3
+
 ### Chang'An
 
 1.  长安的主题是什么？或者说，有哪些？
