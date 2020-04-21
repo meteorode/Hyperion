@@ -4,6 +4,15 @@
 
 ## Narrative
 
+1.  好的叙事游戏
+    -   Pilgrims
+    -   Photographs
+2.  叙事的手法
+    -   文本
+    -   演出
+    -   影音
+    -   玩法
+
 ## Deck Building
 
 ## Card Battler
