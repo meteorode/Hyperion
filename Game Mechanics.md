@@ -19,7 +19,7 @@
 2.  build的方法是否决定了游戏机制？
     -   puzzle
     -   idle
-3.
+3.  
 
 ## Card Battler
 
