@@ -33,4 +33,14 @@
 
 ## Civ Sim
 
-## Others
+## JiangHu L
+
+1.  Dice rolling
+2.  Linear card resolving
+3.  Play your own deck into events and enviroment shuffle
+4.  Special match 3(i.e, [Char, Location, Story] would trigger and event)
+
+## Poker
+
+1.  Each element in the Game could be a poker card
+2.  Collect cards and unlock rules.
