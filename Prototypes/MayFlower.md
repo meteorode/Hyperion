@@ -10,4 +10,12 @@
 5.  一个更好的idle game
 6.  A game of history of fictional world(like evoland?)
 
-## 
+## Features
+
+## Themes
+
+1.  「宇宙尽头的餐馆」
+    -   idle game
+    -   时间线控制
+    -   身份变换
+2.  
