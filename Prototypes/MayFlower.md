@@ -8,6 +8,7 @@
     -   Deck building: 手牌是一堆战斗效果的组成部分
 4.  Storyboard::Alice:DBG
 5.  一个更好的idle game
+    -   安静，缓慢，但有身份交换和解谜，like Miss Marple
 6.  A game of history of fictional world(like evoland?)
 
 ## Features
