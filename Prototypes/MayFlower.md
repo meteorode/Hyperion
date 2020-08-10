@@ -19,7 +19,7 @@
 2.  Idle DBG
     -   期待与惊喜
 3.  Storytelling vs Battle
-    -   
+    -   Card battle
 
 ## Features
 
