@@ -12,15 +12,6 @@
     -   Once Upon A Time?
 6.  A game of history of fictional world(like evoland?)
 
-## KeyFlower
-
-1.  身份交换
-    -   
-2.  Idle DBG
-    -   期待与惊喜
-3.  Storytelling vs Battle
-    -   Card battle
-
 ## Features
 
 1.  
