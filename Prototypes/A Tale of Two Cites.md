@@ -8,7 +8,7 @@
     -   真实时间流逝？
 2.  Roulette TRPG
     -   play cards on roulette
-    -   卡牌组合叙事笑果
+    -   卡牌组合叙事效果
 3.  看不见的城市
     -   rogue like方式进行的长安，每局游戏表现长安的一些侧面（利用rogue like的叙事？）
 
