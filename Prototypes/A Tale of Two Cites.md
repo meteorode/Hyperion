@@ -24,5 +24,7 @@
 ### Sparks
 
 1.  「身份」的定义可以更广义一点？比如一名客人实际上是历史上的什么人物？
-2.  不完全受控的DBG？
-3.  Knights of Pen and Paper Card Game?
+2.  轮盘TRPG
+    -   play cards on roulette
+    -   卡牌组合效果(Storytelling)
+3.  
