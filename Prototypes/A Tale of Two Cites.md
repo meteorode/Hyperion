@@ -6,6 +6,7 @@
     -   Idle机制的加入，如每个地点都有跟idle相关的NPC进行互动
     -   脑浆的身份机制的加入？
     -   真实时间流逝？
+    -   case by case, 发展度继承
 2.  Roulette TRPG
     -   play cards on roulette
     -   卡牌组合叙事效果
