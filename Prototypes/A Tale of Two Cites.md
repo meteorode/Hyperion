@@ -7,6 +7,7 @@
     -   脑浆的身份机制的加入？
     -   真实时间流逝？
     -   case by case, 发展度继承
+    -   地城探索？
 2.  Roulette TRPG
     -   play cards on roulette
     -   卡牌组合叙事效果
