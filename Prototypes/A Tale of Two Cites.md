@@ -11,6 +11,7 @@
 2.  Roulette TRPG
     -   play cards on roulette
     -   卡牌组合叙事效果
+    -   传统TRPG里的roll check能否更改为一次card battle?
 3.  看不见的城市
     -   rogue like方式进行的长安，每局游戏表现长安的一些侧面（利用rogue like的叙事？）
 4.  新的对话机制
