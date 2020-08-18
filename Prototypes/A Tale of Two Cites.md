@@ -13,6 +13,9 @@
     -   卡牌组合叙事效果
 3.  看不见的城市
     -   rogue like方式进行的长安，每局游戏表现长安的一些侧面（利用rogue like的叙事？）
+4.  新的对话机制
+    -   同时决定属性和剧情走向的conversation tree
+    -   卡牌战斗式对话（剧情推进）？
 
 ## Chang'An Odyssey
 
