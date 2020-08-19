@@ -8,6 +8,7 @@
     -   真实时间流逝？
     -   case by case, 发展度继承
     -   地城探索？
+    -   人物驱动（身份机制可以起作用）的奇妙探险队
 2.  Roulette TRPG
     -   play cards on roulette
     -   卡牌组合叙事效果
