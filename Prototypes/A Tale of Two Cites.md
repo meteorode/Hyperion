@@ -24,6 +24,14 @@
 5.  某种大航海
     -   
 
+## A Step from Gaints
+
+>   record about improvement
+
+1.  大航海
+2.  月圆之夜
+3.  猫头鹰与灯塔
+
 ## Chang'An Odyssey
 
 ### Themes
