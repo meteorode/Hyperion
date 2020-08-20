@@ -22,7 +22,8 @@
     -   同时决定属性和剧情走向的conversation tree
     -   卡牌战斗式对话（剧情推进）？
 5.  某种大航海
-    -   
+    - 
+6.  伪装成建筑/种田游戏的idle game?  
 
 ## A Step from Gaints
 
