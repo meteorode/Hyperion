@@ -30,11 +30,18 @@
 >   record about improvement
 
 1.  大航海
+    -
 2.  月圆之夜
+    -
 3.  猫头鹰与灯塔
+    -
 4.  无光之海
+    -
 5.  奇妙探险队
-6.  
+    -
+6.  动物之森
+    -
+7.  
 
 ## Chang'An Odyssey
 
