@@ -49,7 +49,7 @@
 8.  月兔
     -   Alice般的奇异感？
 9.  不思议迷宫
-    -   
+    -   Linear card resolve
 
 ## Chang'An Odyssey
 
