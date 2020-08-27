@@ -51,6 +51,7 @@
     -   Alice般的奇异感？
 9.  不思议迷宫
     -   Linear card resolve
+    -   翻开的格子即卡牌（关键词生成）？
 
 ## Chang'An Odyssey
 
