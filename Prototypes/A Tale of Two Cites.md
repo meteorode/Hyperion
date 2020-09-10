@@ -3,7 +3,7 @@
 ## Wake me up when September ends
 
 1.  随机关键词系统的冒险游戏
-2.  
+2.    
 
 ## Sparks
 
